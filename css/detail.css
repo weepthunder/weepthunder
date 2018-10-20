@@ -1,0 +1,53 @@
+﻿/*css document*/
+
+.produce_img_big
+{
+    width:170px;
+    padding: 5px 0 5px 10px;
+    float: left;
+    
+}
+.thumbs
+{
+    border: 1px solid #dfd1d1;
+    margin: 3px 0 0 0;
+    padding: 8px 5px;
+    
+}
+.detail_big_box
+{
+    width: 354px;
+    float:left;
+    padding: 0 0 0 15px;
+    text-align:left;
+}
+.produce_title_big
+{
+    color:Red;
+    padding: 5px 0 ;
+    font-weight:bold;
+    font-size: 14px;
+}
+.specificationa
+{
+    font-size:12px;
+    font-weight:bold;
+    line-height: 18px;
+    color:Green;
+}
+.span blue
+{
+    color:Blue;
+}
+a.addtocard
+{
+    width: 76px;
+    height:27px;
+    display:block;
+    float:left;
+    background: url(../images/cart.png) no-repeat left;
+    padding: 0 0 0 33px;
+    text-decoration: none;
+    line-height: 27px;
+    color:Red;
+}

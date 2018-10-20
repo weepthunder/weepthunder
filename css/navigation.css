@@ -1,0 +1,21 @@
+﻿/* CSS Document*/
+
+.navigation
+{
+    width: 980px;
+    height: 15px;
+    padding: 5px 10px 0 30px;
+    color:Black;
+    background: url(../images/go_next.png) no-repeat left;
+    background-position: 5px 6px;
+    
+}
+.navigation span.current
+{
+    color:Blue;
+}
+.navigation a
+{
+    color: Black;
+    text-decoration: underline;
+}

@@ -1,0 +1,77 @@
+﻿/*css document*/
+
+.center_content
+{
+    width: 585px;
+    float: left;
+    padding: 5px 10px;
+} 
+.center_title_bar
+{
+    width: 520px;
+    height:33px;
+    float:left;
+    background: url(../images/20.jpg) no-repeat center;
+    padding-left: 0 0 0 40px;
+    line-height: 33px;
+    margin: 0 0 0 12px;
+    font-weight:bold;
+    color:Black;
+    
+}  
+.prod_box
+{
+    width:173px;
+    height:auto;
+    float:left;
+    padding: 10px 10px 10px 11px;
+    
+}
+.top_prod_box
+{
+    width:200px;
+    height:12px;
+    float:left;
+    background: url(../images/1.jpg) no-repeat center bottom;
+}
+.bottom_prod_box
+{
+    width:200px;
+    height:10px;
+    float:left;
+    background: url(../images/1.jpg) no-repeat center bottom;
+}
+.center_prod_box
+{
+    width:200px;
+    height:auto;
+    float:left;
+    text-align:center;
+    background: url(../images/xaam.jpg) repeat-y;
+}
+
+.prod_details_tab
+{
+    width:200px;
+    height: 31px;
+    float:left;
+    margin: 3px 0 0 0;
+    background: url(../images/xaam.jpg) no-repeat center;
+}
+img.left_bt
+{
+    float:left;
+    padding: 6px 0 0 6px;
+    
+}
+a.prod_details
+{
+    width:25px;
+    display:block;
+    float:left;
+    padding:0 0 0 20px;
+    background: url(../images/details.jpg) no-repeat left;
+    margin: 7px 0 0 38px;
+    text-decoration: none;
+    color:Black;
+}
